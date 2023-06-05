@@ -1,0 +1,31 @@
+Comandos de Examen:
+
+  483  git init
+  484  git branch -M main
+  485  git remote add origin https://github.com/Rompeteclas/20230605-MauroLimache.git
+  486  git touch comandos.txt main.js index.html
+  487  touch comandos.txt touch main.js touch index.html
+  488  ls -R
+  489  rm touch
+  490  ls -R
+  491  git add .
+  492  git commit -m "01 de MauroLimache"
+  493  git push origin main
+  494  git branch feature
+  495  git checkout fearure
+  496  git checkout feature
+  497  mkdir Hardware Software SeguridadInformatica
+  498  touch Hardware/resumen.txt
+  499  touch Software/resumen.txt
+  500  touch SeguridadInformatica/resumen.txt
+  501  ls -R
+  502  git add .
+  503  git commit -m "02 de MauroLimache"
+  504  git push origin feature
+  505  git checkout main
+  506  git mv main.js resumenHardware.txt
+  507  git mv index.html resumenSoftware.txt
+  508  history
+  509  git add . 
+  510  git commit -m "03 de MauroLimache" 	
+  511  git push origin main
